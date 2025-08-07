@@ -1,6 +1,6 @@
 # Cermati Registration Automation
 
-Skrip otomatisasi menggunakan **Selenium (Python)** untuk mengisi form pendaftaran di [Cermati.com](https://www.cermati.com/gabung).
+Automation menggunakan **Selenium (Python)** untuk mengisi form pendaftaran di [Cermati.com](https://www.cermati.com/gabung).
 ---
 ## Purpose
 Melakukan automation testing untuk positive case pada form pendaftaran pengguna Cermati.
